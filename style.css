@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Libertinus+Sans:ital,wght@0,400;0,700;1,400&display=swap');
+body {
+	font-family: 
+	place-content: center;
+	min-height: 100vh;
+	margin: 0;
+	text-align: center;
+	color;
+	background-color: rgb(242, 236, 234);
+
+}
+
+button {
+	padding: 0.6rem 1.2rem;
+	font-size: 1rem;
+	border-radius: 8px;
+	border: 0;
+	background: #f7f0f1;
+	color: rgb(219, 183, 20);
+	cursor: pointer;
+}
